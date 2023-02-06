@@ -10,8 +10,7 @@ function App() {
     tempArr.push(value);
     setList(tempArr);
     setValue("")};
-
-
+    
   return (
     <div class="App">
       <h2>SideBar 1</h2>
